@@ -5,3 +5,12 @@ fields:
 - type: boolean
   name: headless
   label: headless
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Title
