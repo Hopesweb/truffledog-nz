@@ -1,11 +1,14 @@
 +++
-title = "Image Credit"
+author = "Jonathan Janssens"
+date = 2019-11-03T00:00:00Z
 description = "Giving credit to the images used in the demo"
 summary = "Thank you to the authors of these images used in this theme demo"
-date = "2019-11-03"
-author = "Jonathan Janssens"
-+++
+title = "Image Credit"
+[menu.main]
+name = "Contact"
+weight = 6
 
++++
 All images are from [Unsplash](https://unsplash.com).
 
 ![Fight for freedom stand with Hong Kong sticker](/images/claudio-schwarz-purzlbaum-tRDWFrkRMyU-unsplash.jpg)
