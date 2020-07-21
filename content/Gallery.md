@@ -6,11 +6,3 @@ weight = 4
 
 +++
 Here are some of our action shots!
-
-![](/images/caph3.jpg)\[object HTMLLIElement\]\[object HTMLLIElement\]
-
-\[object HTMLLIElement\]
-
-\[object HTMLLIElement\]
-
-\[object HTMLLIElement\]
