@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
-baseURL = "https://gohugo.io/"
+author = "Tim Hope"
+baseURL = "http://truffledog.co.nz"
 copyright = ""
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "casper3"
-title = "Truffle Dogs"
+title = "TruffleDog Truffle Hunting service"
 [[menu.main]]
 identifier = "about"
 name = "About"
