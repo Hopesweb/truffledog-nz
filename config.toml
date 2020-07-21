@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
 author = "Tim Hope"
-baseURL = "http://truffledog.co.nz"
+baseURL = "http://truffledogs.co.nz"
 copyright = ""
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "casper3"
-title = "TruffleDog Truffle Hunting service"
+title = "Truffle Dogs NZ"
 [[menu.main]]
 identifier = "about"
 name = "About"
