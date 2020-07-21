@@ -6,7 +6,7 @@ summary = "Thank you to the authors of these images used in this theme demo"
 title = "Image Credit"
 [menu.main]
 name = "Contact"
-weight = 6
+weight = 3
 
 +++
 All images are from [Unsplash](https://unsplash.com).
