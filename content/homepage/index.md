@@ -2,8 +2,8 @@
 headless: false
 menu:
   main:
-    identifier: author
     name: Home
+    identifier: author
     weight: 1
 
 ---
