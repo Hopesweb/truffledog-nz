@@ -7,22 +7,22 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: content/post
-  label: Post
-  create: documents
+  path: content/homepage
+  label: Homepage
+  create: all
   match: "**/*"
-  templates:
-  - post
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
 - type: directory
-  path: content/homepage
-  label: Homepage
-  create: all
+  path: content/post
+  label: Post
+  create: documents
   match: "**/*"
+  templates:
+  - post
 - type: document
   path: config.toml
   label: Site configuration
