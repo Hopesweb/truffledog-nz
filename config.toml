@@ -12,7 +12,7 @@ title = "Truffle Dogs NZ"
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 2
+weight = 5
 [params]
 description = "Just a demo site for the Casper3 theme ported to Hugo"
 facebook = "https://facebook.com"

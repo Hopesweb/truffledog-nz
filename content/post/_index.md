@@ -4,6 +4,6 @@ author = "Hugo Authors"
 tags = ["index"]
 title = "Posts"
 [menu.main]
-weight = 5
+weight = 2
 
 +++
