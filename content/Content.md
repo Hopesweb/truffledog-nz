@@ -1,4 +1,7 @@
 +++
+[menu.main]
+name = "Contact"
+weight = 3
 [[block]]
 content = "Prue and Alan\n\nPhone: 027 777 8220 \nEmail: truffle@truffledog.com.au K9detectordogs@gmail.com ahopepchurch@gmail.com"
 template = "tile-contact"
