@@ -11,3 +11,5 @@ fields:
     min: 
     max: 
   label: Block
+pages:
+- content/Content.md
