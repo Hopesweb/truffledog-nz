@@ -7,13 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: block
-  type: blocks
-  label: Block
-  template_types: []
-  config:
-    min: 
-    max: 
 - name: content
   type: textarea
   default: ''
