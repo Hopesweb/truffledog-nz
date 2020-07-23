@@ -1,4 +1,13 @@
 ---
 label: Content
 hide_body: true
-fields: []
+fields:
+- name: block
+  type: blocks
+  template_types:
+  - tile-contact
+  - image
+  config:
+    min: 
+    max: 
+  label: Block
